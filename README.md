@@ -1,14 +1,23 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Next.js Authentication UI
-This project implements a modern, responsive authentication UI using Next.js 14 with the App Router, React Hook Form, Zod validation, and custom CSS
+# Auth App - Next.js (App Router)
 
-## Features
+A simple authentication UI built with **Next.js 13+** using the **App Router**.
 
-- Modern, responsive UI for authentication
-- Login and signup pages with form validation
-- Client-side form validation with Zod and React Hook Form
-- Error handling for API errors
+---
+
+## ✨ Features
+
+- Navigation between Home, Login, and Signup pages
+- Form validation (basic email & password checks)
+- Clean, reusable components
+- Uses `useRouter` for client-side navigation
+
+---
+
+## 📁 Folder Structure
+
+app/ ├── layout.tsx # Root layout ├── page.tsx # HomePage ├── login/ │ └── page.tsx # Login form ├── signup/ │ └── page.tsx # Signup form
 
 ## Getting Started
 
