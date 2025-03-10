@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Next.js Authentication UI
+This project implements a modern, responsive authentication UI using Next.js 14 with the App Router, React Hook Form, Zod validation, and custom CSS
+
+## Features
+
+- Modern, responsive UI for authentication
+- Login and signup pages with form validation
+- Client-side form validation with Zod and React Hook Form
+- Error handling for API errors
+
 ## Getting Started
 
 First, run the development server:

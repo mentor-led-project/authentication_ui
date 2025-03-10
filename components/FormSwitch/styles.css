@@ -1,0 +1,15 @@
+.formSwitch {
+    margin-top: 1.5rem;
+    text-align: center;
+    color: #666;
+  }
+  
+  .formSwitch a {
+    color: #0070f3;
+    text-decoration: none;
+    margin-left: 0.25rem;
+  }
+  
+  .formSwitch a:hover {
+    text-decoration: underline;
+  }

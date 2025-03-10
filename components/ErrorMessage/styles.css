@@ -1,0 +1,11 @@
+.errorText {
+    color: #e53e3e;
+    font-size: 0.875rem;
+    margin-top: 0.25rem;
+  }
+  
+  .formError {
+    color: #e53e3e;
+    font-size: 0.875rem;
+    margin-bottom: 1rem;
+  }
