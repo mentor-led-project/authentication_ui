@@ -43,7 +43,7 @@ const Signup = () => {
       </form>
       
       <p className="auth-switch">
-        Already have an account? <Link href="/login">Log in</Link>
+        Already have an account? <Link href="/Login">Log in</Link>
       </p>
     </div>
   );

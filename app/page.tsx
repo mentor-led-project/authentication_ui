@@ -7,7 +7,7 @@ export default function HomePage() {
   return (
     <div className="auth-container">
       <h2>Welcome to Auth App</h2>
-      <p>Please login or signup to continue.</p>
+      <p>Get started by logging in or creating your account.</p>
 
       <div className="button-group">
         {" "}

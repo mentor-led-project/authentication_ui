@@ -43,7 +43,7 @@ const Login = () => {
       </form>
 
       <p className="auth-switch">
-        Do you have an account? <Link href="/login">Sign in</Link>
+      Ready to get started? <Link href="/Signup">Sign up</Link>
       </p>
     </div>
   );
